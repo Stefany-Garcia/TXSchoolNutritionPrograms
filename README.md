@@ -1,5 +1,4 @@
 # TXSchoolNutritionPrograms
-This exploratory analysis was created as part of the CareerFoundry Data Analytics Course.
 
 ## Objective
 Conduct an exploratory visual analysis in Python and finding connections between variables that seem worth exploring. After developing hypotheses, use various advanced analytical approaches to help test the hypotheses.
